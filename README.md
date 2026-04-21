@@ -12,5 +12,3 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg" width="400"/>
 </p>
-![soccer](https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccerball.svg)
-![computer](https://upload.wikimedia.org/wikipedia/commons/6/6a/Computer_monitor_icon.svg)
